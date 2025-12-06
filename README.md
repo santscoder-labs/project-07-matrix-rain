@@ -1,4 +1,4 @@
-# Project 06 — Magnetic Button  
+# Project 07 — Matrix Rain  
 **PT-BR:**  
 Parte da série SantsCoder, este projeto mostra como criar um efeito Matrix Rain Minimalista usando HTML, CSS e JavaScript.
 A chuva digital possui visual vermelho glitch, canvas fullscreen e animação automática em looping contínuo.
